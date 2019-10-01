@@ -9,7 +9,7 @@ Simply select the nearest city from which you want to know the current weather a
 
 ### Instructions
 
-You just have to download this repository, extract the files and run the ´index.html´ file.
+You just have to download this [`REPO`](https://github.com/frontend-tests/weather-test/archive/master.zip), extract the folder files and run the `index.html` file.
 
 ## DEMO
 
