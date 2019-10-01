@@ -1,5 +1,6 @@
 <html>
     <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Weather Frontend Test</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -16,7 +17,7 @@
                             <div class="row">
                                 <div class="col">
                                     <h3>{{ description }}</h3>
-                                    <h1>{{ temperature | decimals }}<sup>°C</sup></h1>                                    
+                                    <h1>{{ temperature | decimals }}<sup>&deg;C</sup></h1>                                    
                                 </div>
                             </div>
                             <div class="row">
@@ -36,7 +37,7 @@
                         <div class="col-8">
                             <div id="forecast-container" class="row">
                                 <div class="col" v-for="(n, index) in 5">
-                                    {{ 24 + 24 * index }}hs: <strong>{{ forecasts[8 * index].main.temp | decimals }}<sup>°C</sup></strong>
+                                    {{ 24 + 24 * index }}hs: <strong>{{ forecasts[8 * index].main.temp | decimals }}<sup>&deg;C</sup></strong>
                                 </div>
                             </div>
                         </div>
