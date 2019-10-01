@@ -2,7 +2,7 @@
 
 # Weather Test ⛅ 
 
-This is a simple full aire cliente code _single_-_page application_ with the purpose of obtaining the current weather and the forecast of the next 5 days for your current city and the 5 largest cities near your location.
+This is a simple full side client code _single_-_page application_ with the purpose of obtaining the current weather and the forecast of the next 5 days for your current city and the 5 largest cities near your location.
 
 Simply select the nearest city from which you want to know the current weather and the forecast and this page will do it for you.
 
