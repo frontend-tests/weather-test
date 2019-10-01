@@ -2,8 +2,6 @@
 
 # Weather Test ⛅ 
 
-## About
-
 This is a simple _single_-_page application_ with the purpose of obtaining the current weather and the forecast of the next 5 days for your current city and the 5 largest cities near your location.
 
 Simply select the nearest city from which you want to know the current weather and the forecast and this page will do it for you.
@@ -26,7 +24,7 @@ You just have to download this [`REPO`](https://github.com/frontend-tests/weathe
 
 ### Frameworks used:  
 
- 1. **Vue.js**: http://openweathermap.org
+ 1. **Vue.js**: http://vuejs.org
 
 ### Packages used:  
 
