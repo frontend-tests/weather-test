@@ -1,3 +1,4 @@
+![Weather Test app screenshot](https://i.imgur.com/1FC9sHe.png)
 
 # Weather Test ⛅ 
 
